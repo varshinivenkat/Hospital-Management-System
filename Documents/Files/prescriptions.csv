@@ -1,0 +1,16 @@
+8001,2023-12-19,Mr. Aarav Patel,32,9876543210,Male,Dr. Sneha Kapoor,Cardiology,Fever|Chest Pain,Aspirin|Atorvastatin,Cardiac Stress Test|Echocardiogram
+8002,2023-12-19,Miss. Anaya Sharma,14,8765432109,Female,Dr. Sneha Kapoor,Cardiology,Breathlessness|High BP,Metoprolol|Enalapril,Cardiac Stress Test|Holter Monitor
+8003,2023-12-19,Mr. Rohan Kapoor,35,7654321098,Male,Dr. Rajesh Sharma,Cardiology,Fever|Chest Pain,Aspirin|Atorvastatin,Cardiac Stress Test|Echocardiogram
+8004,2023-12-19,Mrs. Aisha Mehta,47,6543210987,Female,Dr. Rajesh Sharma,Cardiology,Breathlessness|High BP,Metoprolol|Enalapril,Cardiac Stress Test|Holter Monitor
+8005,2023-12-19,Mr. Advait Khanna,25,5432109876,Male,Dr. Nidhi Patel,Orthopedics,Joint Injury|Swollen arm,Ibuprofen|Naproxen,X-ray - Orthopedic|MRI - Musculoskeletal
+8006,2023-12-19,Miss Riya Desai,13,6321098765,Female,Dr.Nidhi Patel,Orthopedics,Weakness|Neck pain,Ibuprofen|RelaxantX,X-ray - Orthopedic|Bone Density Scan
+8007,2023-12-19,Mr. Arjun Choudhary,26,7210987654,Male,Dr. Sameer Verma,Orthopedics,Joint Injury|Swollen arm,Ibuprofen|Naproxen,X-ray - Orthopedic|MRI - Musculoskeletal
+8008,2023-12-19,Mr. Ishaan Joshi,16,8210987654,Male,Dr. Sameer Verma,Orthopedics,Weakness|Neck pain,Ibuprofen||RelaxantX,X-ray - Orthopedic|Bone Density Scan
+8009,2023-12-19,Mrs. Amrita Singh,42,9876543210,Female,Dr. Pooja Reddy,Opthamology,Eye pain|Infection,OcuPressX|LubroOptic,Eye Exam|Visual Field Test
+8010,2023-12-19,Miss. Kavya Reddy,14,6789012345,Female,Dr. Pooja Reddy,Opthamology,Double vision|Headache,AllerGaurdDrops|TobraxineOintment,Eye Exam|Corneal Topography
+8011,2023-12-19,Mrs. Aditi Malik,38,8123456789,Female,Dr. Rahul Singh,Opthamology,Eye pain|Infection,OcuPressX|LubroOptic,Eye Exam||Visual Field Test
+8012,2023-12-19,Mr. Varun Agarwal,6,7654321098,Male,Dr. Rahul Singh,Opthamology,Double vision|Headache,AllerGaurdDrops|TobraxineOintment,Eye Exam|Corneal Topography
+8013,2023-12-19,Miss. Naina Gupta,19,6543210987,Female,Dr. Priya Joshi,Dermatology,Rashes|Mole Growth,HydrocortizoneCream|Neosporin,Dermoscopy|Skin Biopsy
+8014,2023-12-19,Mr. Kabir Sharma,25,5432109876,Male,Dr. Priya Joshi,Dermatology,Allergy|Hair loss,AdapaleneGel|Clotrimazole,Dermoscopy|Patch Testing
+8015,2023-12-19,Miss. Diya Verma,15,4321098765,Female,Dr. Aditya Malik,Dermatology,Rashes|Mole Growth,,HydrocortizoneCream|Neosporin
+8016,2023-12-19,Mr. Yash Rajput,17,7654321098,Male,Dr. Aditya Malik,Dermatology,Allergy|Hair loss,AdapaleneGel|Clotrimazole,Dermoscopy|Patch Testing

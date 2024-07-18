@@ -1,0 +1,25 @@
+1001,Aspirin,30.00,2021-02-20,2024-12-31,100,Cardiology
+1002,Atorvastatin,80.50,2022-08-29,2024-01-08,120,Cardiology
+1003,Clopidogrel,65.00,2023-07-08,2026-06-30,20,Cardiology
+1004,Metoprolol,50.50,2022-11-20,2024-10-31,35,Cardiology
+1005,Enalapril,70.00,2023-05-05,2025-04-30,30,Cardiology
+1006,Ibuprofen,50,2022-12-01,2024-11-30,300,Orthopedics
+1007,Acetaminophen,40,2023-03-15,2025-02-28,250,Orthopedics
+1008,Naproxen,60,2022-08-10,2024-07-31,200,Orthopedics
+1009,Diclofenac,55,2023-05-20,2025-04-30,180,Orthopedics
+1010,RelaxantX,70,2022-11-05,2024-10-31,150,Orthopedics
+1011,HydrocortisoneCream,75,2022-12-01,2024-11-30,300,Dermatology
+1012,Clotrimazole,50,2023-03-15,2025-02-28,250,Dermatology
+1013,AdapaleneGel,65,2022-08-10,2024-07-31,200,Dermatology
+1014,EmollientCream,90,2023-05-20,2025-04-30,180,Dermatology
+1015,Neosporin,110,2022-11-05,2024-10-31,220,Dermatology
+1016,AmoxicillinSuspension,45,2022-12-01,2024-11-30,500,Pediatrics
+1017,IbuprofenSuspension,30,2023-03-15,2025-02-28,400,Pediatrics
+1018,CetirizineSyrup,55,2022-08-10,2024-07-31,350,Pediatrics
+1019,MultivitaminDrops,40,2023-05-20,2025-04-30,300,Pediatrics
+1020,ORS Solution,25,2022-11-05,2024-10-31,450,Pediatrics
+1021,LubroOptic,40,2022-12-01,2024-11-30,300,Ophthalmology
+1022,AllerGuardDrops,50,2023-03-15,2025-02-28,250,Ophthalmology
+1023,OcuPressX,80,2022-08-10,2024-07-31,200,Ophthalmology
+1024,TobraXinOintment,60,2023-05-20,2025-04-30,180,Ophthalmology
+1025,CataractSolvoDrops,120,2022-11-05,2024-10-31,150,Ophthalmology

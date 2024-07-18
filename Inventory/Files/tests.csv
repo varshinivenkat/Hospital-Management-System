@@ -1,0 +1,15 @@
+3001,Cardiac Stress Test,5000,Cardiology
+3002,Echocardiogram,8000,Cardiology
+3003,Holter Monitor,3000,Cardiology
+3004,Bone Density Scan,2500,Orthopedics
+3005,X-ray - Orthopedic,1500,Orthopedics
+3006,MRI - Musculoskeletal,10000,Orthopedics
+3007,Dermoscopy,1500,Dermatology
+3008,Patch Testing,3000,Dermatology
+3009,Skin Biopsy,2000,Dermatology
+3010,Pediatric Blood Panel,2000,Pediatrics
+3011,Chest X-ray - Pediatrics,1200,Pediatrics
+3012,Pediatric Allergy Testing,2500,Pediatrics
+3013,Eye Exam,1000,Ophthalmology
+3014,Visual Field Test,2000,Ophthalmology
+3015,Corneal Topography,3000,Ophthalmology
