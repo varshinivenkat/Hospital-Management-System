@@ -1,2 +1,9 @@
 # Hospital-Management-System
-- Launched a comprehensive Hospital Management System, improving user roles, staff management, and billing processes. Enhanced patient experience by enabling profile creation, appointment scheduling, and bill viewing, reducing appointment no-shows by 15%. - Tech Stack: Java
+The Hospital Management System, developed in Java, enhances healthcare administration with a suite of features. Patients can register, log in, view their medical history, search for doctors, and book appointments. Doctors can manage their schedules, view appointments, and create prescriptions. The system also includes robust inventory and user management functionalities for administrators, ensuring streamlined operations and effective management of hospital resources.
+
+
+
+
+
+
+
